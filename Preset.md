@@ -1,1 +1,1 @@
-FB Highway Tagging 
+JOSM Highway Tagging 
